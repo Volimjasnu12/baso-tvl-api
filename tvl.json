@@ -1,0 +1,14 @@
+{
+  "name": "BASO",
+  "symbol": "BASO",
+  "chain": "TRON",
+  "address": "TEU2X7bomU5rhX9QJGL86pQ6h65GNkb5wr",
+  "category": "Staking",
+  "tvl": {
+    "usd": 0,
+    "bnb": 0,
+    "usdt": 0
+  },
+  "lastUpdate": "2025-10-26T00:00:00Z",
+  "source": "https://tronscan.org/#/token20/TEU2X7bomU5rhX9QJGL86pQ6h65GNkb5wr"
+}

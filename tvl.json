@@ -1,14 +1,77 @@
-{
-  "name": "BASO",
-  "symbol": "BASO",
-  "chain": "TRON",
-  "address": "TEU2X7bomU5rhX9QJGL86pQ6h65GNkb5wr",
-  "category": "Staking",
-  "tvl": {
-    "usd": 0,
-    "bnb": 0,
-    "usdt": 0
+[
+  {
+    "name": "BASO",
+    "symbol": "BASO",
+    "chain": "TRON",
+    "chainId": "tron-mainnet",
+    "address": "TEU2X7bomU5rhX9QJGL86pQ6h65GNkb5wr",
+    "category": "Token",
+    "logoURI": "https://basotoken.com/logo.png",
+    "website": "https://basotoken.com",
+    "telegram": "https://t.me/BASOofficialChanell",
+    "twitter": "https://x.com/BasoKiler12",
+    "tvl": { "usd": 0, "bnb": 0, "usdt": 0 },
+    "lastUpdate": "2025-11-06T00:00:00Z",
+    "source": "https://tronscan.org/#/token20/TEU2X7bomU5rhX9QJGL86pQ6h65GNkb5wr"
   },
-  "lastUpdate": "2025-10-26T00:00:00Z",
-  "source": "https://tronscan.org/#/token20/TEU2X7bomU5rhX9QJGL86pQ6h65GNkb5wr"
-}
+  {
+    "name": "BASO DeFi",
+    "symbol": "BASO",
+    "chain": "TRON",
+    "chainId": "tron-mainnet",
+    "address": "TEU2X7bomU5rhX9QJGL86pQ6h65GNkb5wr",
+    "category": "Staking",
+    "logoURI": "https://basotoken.com/logo.png",
+    "website": "https://basotoken.com",
+    "telegram": "https://t.me/BASOofficialChanell",
+    "twitter": "https://x.com/BasoKiler12",
+    "tvl": { "usd": 0, "bnb": 0, "usdt": 0 },
+    "lastUpdate": "2025-11-06T00:00:00Z",
+    "source": "https://tronscan.org/#/token20/TEU2X7bomU5rhX9QJGL86pQ6h65GNkb5wr"
+  },
+  {
+    "name": "BASO",
+    "symbol": "BASO",
+    "chain": "BASE",
+    "chainId": 8453,
+    "address": "0x94F05403D875d51775A59b4f8d61084494496b07",
+    "category": "Token",
+    "logoURI": "https://basotoken.com/logo.png",
+    "website": "https://basotoken.com",
+    "telegram": "https://t.me/BASOofficialChanell",
+    "twitter": "https://x.com/BasoKiler12",
+    "tvl": { "usd": 0, "bnb": 0, "usdt": 0 },
+    "lastUpdate": "2025-11-06T00:00:00Z",
+    "source": "https://basescan.org/token/0x94F05403D875d51775A59b4f8d61084494496b07"
+  },
+  {
+    "name": "BASO (ETH)",
+    "symbol": "BASO",
+    "chain": "ETHEREUM",
+    "chainId": 1,
+    "address": "",
+    "category": "Token",
+    "logoURI": "https://basotoken.com/logo.png",
+    "website": "https://basotoken.com",
+    "telegram": "https://t.me/BASOofficialChanell",
+    "twitter": "https://x.com/BasoKiler12",
+    "tvl": { "usd": 0, "bnb": 0, "usdt": 0 },
+    "lastUpdate": "2025-11-06T00:00:00Z",
+    "source": ""
+  },
+  {
+    "name": "BASO (BSC)",
+    "symbol": "BASO",
+    "chain": "BSC",
+    "chainId": 56,
+    "address": "",
+    "category": "Token",
+    "logoURI": "https://basotoken.com/logo.png",
+    "website": "https://basotoken.com",
+    "telegram": "https://t.me/BASOofficialChanell",
+    "twitter": "https://x.com/BasoKiler12",
+    "tvl": { "usd": 0, "bnb": 0, "usdt": 0 },
+    "lastUpdate": "2025-11-06T00:00:00Z",
+    "source": ""
+  }
+]
